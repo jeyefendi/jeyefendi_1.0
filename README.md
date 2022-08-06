@@ -1,16 +1,4 @@
 # [![Logo](./jf-logo.png)](https://jeyefendi.com)<br>jeyefendi.com
-## S T A C K :
-**JavaScript**
->ES6+<br>
->React.js<br>
->Typescript<br>
-
-**HTML | CSS**
->SASS / SCSS<br>
->Flexbox / Grid<br>
->Bootstrap5 / Tailwind
-
-**Other**
->Wordpress<br>
->PHP / Node.js<br>
->Figma / Adobe PS
+## This is the initial view of my site. It was originally written in pure HTML & CSS. Until I met with Next.js.
+If you want to see actual version of site - Just Click the <b>Logo<b>!
+If you wanna see this site - click on <b>GitHub Pages<b> deployment!
