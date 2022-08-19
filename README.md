@@ -3,4 +3,4 @@
 # [LIVE DEMO](https://jeyefendi.github.io/jeyefendi_1.0/)
 ![Logo](./COVER.webp)
 # If you want to see actual version of site - Just Click the <b>Logo</b>!
-[![Logo](./jf-logo.png)](https://jeyefendi.com)<br>jeyefendi.com
+[![Logo](./jf-logo.png)](https://jeyefendi.com)<br><b>jeyefendi.com
