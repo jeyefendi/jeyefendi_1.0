@@ -1,4 +1,6 @@
-# [![Logo](./jf-logo.png)](https://jeyefendi.com)<br>jeyefendi.com
-## This is the initial view of my site. It was originally written in pure HTML & CSS. Until I met with Next.js.
-If you want to see actual version of site - Just Click the <b>Logo</b>!
-If you wanna see this site - click on <b>GitHub Pages</b> deployment!
+# This is the initial view of My [<b>jeyefendi.com</b>](https://jeyefendi.com). It was originally written in pure HTML & CSS. Until I met with Next.js.
+><b>HTML <br>CSS <br>Vanilla JS</b>
+# [LIVE DEMO](https://jeyefendi.github.io/jeyefendi_1.0/)
+![Logo](./COVER.webp)
+#If you want to see actual version of site - Just Click the <b>Logo</b>!
+[![Logo](./jf-logo.png)](https://jeyefendi.com)<br>jeyefendi.com
