@@ -1,4 +1,4 @@
-# This is the initial view of My [<b>jeyefendi.com</b>](https://jeyefendi.com). It was originally written in pure HTML & CSS. Until I met with Next.js.
+# This is the initial view of [jeyefendi.com](https://jeyefendi.com). It was originally written in pure HTML & CSS. Until I met with Next.js.
 ><b>HTML <br>CSS <br>Vanilla JS</b>
 # [LIVE DEMO](https://jeyefendi.github.io/jeyefendi_1.0/)
 ![Logo](./COVER.webp)
